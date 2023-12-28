@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://dempire412.github.io/updatetest/updatetest.zip" length="953698" type="application/octet-stream" sparkle:edSignature="NJREs5U9TKtRn6kS5QIdE5ZZgFsIpo+8afwg0tVd1MWui+ISz+/qS7Sxu3E7PEWFBN7t/ZUTkLtjwUHf4xs3Cw=="/>
+            <enclosure url="https://dempire412.github.io/updatetest/updatetest1.1.zip" length="953698" type="application/octet-stream" sparkle:edSignature="NJREs5U9TKtRn6kS5QIdE5ZZgFsIpo+8afwg0tVd1MWui+ISz+/qS7Sxu3E7PEWFBN7t/ZUTkLtjwUHf4xs3Cw=="/>
         </item>
     </channel>
 </rss>
