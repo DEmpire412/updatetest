@@ -1,14 +1,14 @@
-<?xml version="1.1" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>updatetest</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Thu, 28 Dec 2023 15:57:18 -0500</pubDate>
+            <title>1.1</title>
+            <pubDate>Thu, 28 Dec 2023 16:11:35 -0500</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://dempire412.github.io/updatetest/updatetest1.1.zip" length="953698" type="application/octet-stream" sparkle:edSignature="NJREs5U9TKtRn6kS5QIdE5ZZgFsIpo+8afwg0tVd1MWui+ISz+/qS7Sxu3E7PEWFBN7t/ZUTkLtjwUHf4xs3Cw=="/>
+            <enclosure url="https://github.com/DEmpire412/updatetest/releases/download/v1.1/updatetest1.1.zip" type="application/octet-stream" sparkle:edSignature="NJREs5U9TKtRn6kS5QIdE5ZZgFsIpo+8afwg0tVd1MWui+ISz+/qS7Sxu3E7PEWFBN7t/ZUTkLtjwUHf4xs3Cw=="/>
         </item>
     </channel>
 </rss>
