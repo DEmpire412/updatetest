@@ -6,9 +6,9 @@
             <title>1.0</title>
             <pubDate>Thu, 28 Dec 2023 15:57:18 -0500</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://dempire412.github.io/updatetest/updatetest.zip" length="953715" type="application/octet-stream" sparkle:edSignature="SQjN7GWFMZCrmeXcCH4IFgE2E7X82V57uumIAG0eZvXjuUCFQq4LlcAP8n6qPVsnDWShltFQIWmMjWS/OTLiBw=="/>
+            <enclosure url="https://dempire412.github.io/updatetest/updatetest.zip" length="953698" type="application/octet-stream" sparkle:edSignature="NJREs5U9TKtRn6kS5QIdE5ZZgFsIpo+8afwg0tVd1MWui+ISz+/qS7Sxu3E7PEWFBN7t/ZUTkLtjwUHf4xs3Cw=="/>
         </item>
     </channel>
 </rss>
